@@ -1,0 +1,1 @@
+# validador-de-bandeira-cartao-copilot
