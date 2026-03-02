@@ -28,7 +28,7 @@ Validador de Bandeira de Cartão de Crédito utilizando **JavaScript** e **GitHu
 **Jame**
 
 ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
-[![Portfolio](https://img.shields.io/static/v1?style=for-the-badge&message=seu-portfolio.com&color=262626&label=%3Cb/%3E&labelColor=dd9208)](https://seu-portfolio.com)
+[![Portfolio](https://img.shields.io/static/v1?style=for-the-badge&message=jamesouza.com.br&color=262626&label=%3C/%3E&labelColor=dd9208)](https://jamesouza.com.br)
 
 ---
 
